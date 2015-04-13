@@ -1,3 +1,9 @@
+//R. Rungiah
+//213 507 582
+//Tut2
+//CM3 2015
+
+
 #include<iostream>
 using namespace std;
 
